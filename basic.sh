@@ -1,4 +1,5 @@
 #!/bin/bash
+#hello dosto
 echo "enter names "
 #read is used take input from user
   read n1  n2  n3
